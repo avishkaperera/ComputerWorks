@@ -1,0 +1,31 @@
+SMAP
+view_002dcomments_jsp.java
+JSP
+*S JSP
+*F
++ 0 view-comments.jsp
+view-comments.jsp
++ 1 head.jsp
+layouts/head.jsp
++ 2 navigation.jsp
+layouts/navigation.jsp
++ 3 footer.jsp
+layouts/footer.jsp
+*L
+1,6:54
+1#1,12:60
+6#0,7:72
+1#2,10:79
+11,2:89,3
+13,2:95
+15,3:97,3
+18,3:106
+21,2:109,3
+23,48:115
+71:163,5
+72,3:168,3
+75,10:177
+12#0,180:187
+1#3,88:367
+191#0,8:455
+*E
